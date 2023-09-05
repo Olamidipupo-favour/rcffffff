@@ -91,7 +91,7 @@ function App() {
           ></video>
           {/* create a nav bar for bigger screens */}
           {/* create a dropdown for mobile screens */}
-          <div className="absolute top-[10.6%] left-0 w-full h-full bg-black opacity-50"></div>
+          {/* <div className="absolute top-[10.6%] left-0 w-full h-full bg-black opacity-50"></div>*/}
           <div className="absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center md:items-start  pl-5 pt-3">
             <h1 className="text-xl font-bold text-white mb-4 justify-start md:w-[45%]">
               ✦ What we envision
